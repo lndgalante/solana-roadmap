@@ -2,17 +2,19 @@
 
 ## Solana
 
-- [ ] [Nader Dabit - The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [ ] [Solana Official Resources](https://solana.com/developers)
 
-* [ ] [buildspace - Build a Web3 app on Solana with React and Rust](https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3)
+* [ ] [Nader Dabit - The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 
-- [ ] [Ship your own custom NFT collection on Solana w/ Metaplex in a weekend](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e)
+- [ ] [buildspace - Build a Web3 app on Solana with React and Rust](https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3)
 
-* [x] [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
+* [ ] [buildspace - Ship your own custom NFT collection on Solana](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e)
+
+- [x] [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
 
 ## Rust
 
-- [ ] [The Rust Programming Language](https://frontendmasters.com/courses/rust/)
+- [ ] [The Rust Programming Language](https://frontendmasters.com/courses/rust)
 
 * [ ] [Rust for JS Developers](https://rustforjs.dev)
 
@@ -20,4 +22,4 @@
 
 ## Projects
 
-- [ ] [Tip ETH but for SOL](https://tipeth.xyz/)
+- [ ] [Tip ETH but for SOL](https://tipeth.xyz)
