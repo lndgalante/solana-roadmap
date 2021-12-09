@@ -14,12 +14,14 @@
 
 ## Rust
 
-- [ ] [The Rust Programming Language](https://frontendmasters.com/courses/rust)
+- [ ] [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
 
-* [ ] [Rust for JS Developers](https://rustforjs.dev)
+* [ ] [The Rust Programming Language](https://frontendmasters.com/courses/rust)
 
-- [ ] [Programming Rust: Fast, Safe Systems Development 2nd Edición](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586)
+- [ ] [Rust for JS Developers](https://rustforjs.dev)
 
-## Projects
+* [ ] [Programming Rust: Fast, Safe Systems Development 2nd Edición](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586)
+
+## Projects ideas
 
 - [ ] [Tip ETH but for SOL](https://tipeth.xyz)
