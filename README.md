@@ -22,10 +22,16 @@
 
 * [ ] [Programming Rust: Fast, Safe Systems Development 2nd Edición](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586)
 
+## Tools
+
+- [Anchor - Solana Dev Environment](https://project-serum.github.io/anchor/getting-started/introduction.html)
+
+* [VSCode - Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+
 ## Projects ideas
 
 - [ ] [Tip ETH but for SOL](https://tipeth.xyz)
 
 ## External Links
 
-- [[Solana Developer Resources](https://www.notion.so/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)](https://great-atmosphere-22a.notion.site/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
+- [Solana Developer Resources](https://www.notion.so/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
