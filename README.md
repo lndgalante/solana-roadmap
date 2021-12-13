@@ -36,6 +36,8 @@
 
 - [ ] [Tip ETH but for SOL](https://tipeth.xyz)
 
-## External Links
+## External Lists
 
 - [Solana Developer Resources](https://www.notion.so/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
+
+* [SolDev](https://www.soldev.app)
