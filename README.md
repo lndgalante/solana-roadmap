@@ -34,7 +34,9 @@
 
 ## Projects ideas
 
-- [ ] [Tip ETH but for SOL](https://tipeth.xyz)
+- [ ] [Tip ETH, for SOL](https://tipeth.xyz)
+
+- [ ] [Ethereum Code Viewer, for SOL](https://github.com/dethcrypto/ethereum-code-viewer)
 
 ## External Lists
 
