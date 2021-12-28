@@ -8,13 +8,15 @@
 
 ## Solana Unofficial Links
 
-* [ ] [solana-dev-adv - Solana Cookbook](https://solanacookbook.com/)
+- [ ] [solana-dev-adv - Solana Cookbook](https://solanacookbook.com/)
 
-- [ ] [Nader Dabit - The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+* [ ] [Nader Dabit - The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 
-* [ ] [buildspace - Build a Web3 app on Solana with React and Rust](https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3)
+- [ ] [buildspace - Build a Web3 app on Solana with React and Rust](https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3)
 
-- [ ] [buildspace - Ship your own custom NFT collection on Solana](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e)
+* [ ] [buildspace - Ship your own custom NFT collection on Solana](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e)
+
+- [ ] [Questbook - Build on Solana](https://openquest.xyz/tracks/build-on-solana)
 
 * [x] [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
 
@@ -40,7 +42,7 @@
 
 - [ ] [Ethereum Code Viewer, for SOL](https://github.com/dethcrypto/ethereum-code-viewer)
 
-## External Lists
+## External Lists/Resources
 
 - [Solana Developer Resources](https://www.notion.so/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
 
