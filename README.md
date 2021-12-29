@@ -30,6 +30,10 @@
 
 * [ ] [Programming Rust: Fast, Safe Systems Development 2nd Edición](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586)
 
+- [ ] [Getting started with Rust](https://fettblog.eu/getting-started-with-rust)
+
+* [ ] [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust)
+
 ## Developer Tools
 
 - [Anchor - Solana Dev Environment](https://project-serum.github.io/anchor/getting-started/introduction.html)
