@@ -51,3 +51,5 @@
 - [Solana Developer Resources](https://www.notion.so/Solana-Developer-Resources-267371c95fae42d3ab608f3e4de9aa04)
 
 * [SolDev](https://www.soldev.app)
+
+- [Awesome Solana](https://github.com/paul-schaaf/awesome-solana)
