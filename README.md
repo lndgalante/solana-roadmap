@@ -20,6 +20,10 @@
 
 * [x] [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
 
+## Anchor Unofficial Links
+
+- [ ] [Anchor - The Anchor Book](https://book.anchor-lang.com/)
+
 ## Rust Programming Language
 
 - [ ] [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
