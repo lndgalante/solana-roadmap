@@ -1,5 +1,11 @@
 # Solana Roadmap
 
+## Get Started
+
+- [x] [Web3DAO - What is Solana?](https://github.com/Web3DAO-Community/What-is-Solana)
+
+* [x] [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
+
 ## Solana Official Links
 
 - [ ] [Solana Official Dcoumentation](https://docs.solana.com)
@@ -18,9 +24,7 @@
 
 - [ ] [Questbook - Build on Solana](https://openquest.xyz/tracks/build-on-solana)
 
-* [ ] [Start on Solana - Start with quests](https://www.startonsolana.com/#quest-section)
-
-- [x] [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
+* [ ] [Start on Solana - Start with quests](https://www.startonsolana.com)
 
 ## Anchor Unofficial Links
 
