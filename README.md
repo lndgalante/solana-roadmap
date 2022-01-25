@@ -18,7 +18,9 @@
 
 - [ ] [Questbook - Build on Solana](https://openquest.xyz/tracks/build-on-solana)
 
-* [x] [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
+* [ ] [Start on Solana - Start with quests](https://www.startonsolana.com/#quest-section)
+
+- [x] [What is Solana? SOL Explained with Animations](https://www.youtube.com/watch?v=1jzROE6EhxM)
 
 ## Anchor Unofficial Links
 
