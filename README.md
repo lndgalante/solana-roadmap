@@ -26,6 +26,12 @@
 
 * [ ] [Start on Solana - Start with quests](https://www.startonsolana.com)
 
+## Solana Security Links
+
+- [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io/)
+
+* [ ] [Soteria Security Services & Audit for Solana Programs - Blog](https://www.soteria.dev/blogs)
+
 ## Anchor Unofficial Links
 
 - [ ] [Anchor - The Anchor Book](https://book.anchor-lang.com/)
