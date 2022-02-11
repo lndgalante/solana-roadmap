@@ -69,3 +69,5 @@
 * [SolDev](https://www.soldev.app)
 
 - [Awesome Solana](https://github.com/paul-schaaf/awesome-solana)
+
+* [Solana - Riptide Hackathon Resources](https://solana.com/riptide/resources)
