@@ -40,7 +40,7 @@
 
 - [ ] [FCC YouTube – Interactive Rust Language Tutorial on Replit](https://www.youtube.com/watch?v=MsocPEZBd-M)
 
-* [ ] [Fireship YouTube - Rust in 100 Seconds](https://www.youtube.com/watch?v=5C_HPTJg5ek)
+* [x] [Fireship YouTube - Rust in 100 Seconds](https://www.youtube.com/watch?v=5C_HPTJg5ek)
 
 - [ ] [Frontend Masters - The Rust Programming Language](https://frontendmasters.com/courses/rust)
 
@@ -51,6 +51,10 @@
 * [ ] [Stefan Baumgartner - Getting started with Rust](https://fettblog.eu/getting-started-with-rust)
 
 - [ ] [Denys Séguret - How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust)
+
+* [ ] [Rust & Tell Berlin Spet 2021 - Bastian Gruber: Learning Rust - One tutorial to rule them all](https://www.youtube.com/watch?v=QoatPlzc0-Y)
+
+- [ ] [Rust Linz, June 2021 - Tim McNamara - How to learn Rust](https://www.youtube.com/watch?v=sDtQaO5_SOw)
 
 ## Developer Tools
 
