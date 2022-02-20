@@ -38,17 +38,19 @@
 
 ## Rust Programming Language
 
-- [ ] [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
+- [ ] [FCC YouTube – Interactive Rust Language Tutorial on Replit](https://www.youtube.com/watch?v=MsocPEZBd-M)
 
-* [ ] [The Rust Programming Language](https://frontendmasters.com/courses/rust)
+* [ ] [Fireship YouTube - Rust in 100 Seconds](https://www.youtube.com/watch?v=5C_HPTJg5ek)
 
-- [ ] [Rust for JS Developers](https://rustforjs.dev)
+- [ ] [Frontend Masters - The Rust Programming Language](https://frontendmasters.com/courses/rust)
 
-* [ ] [Programming Rust: Fast, Safe Systems Development 2nd Edición](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586)
+* [ ] [Rust for JS Developers](https://rustforjs.dev)
 
-- [ ] [Getting started with Rust](https://fettblog.eu/getting-started-with-rust)
+- [ ] [Book - Programming Rust: Fast, Safe Systems Development 2nd Edición](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586)
 
-* [ ] [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust)
+* [ ] [Stefan Baumgartner - Getting started with Rust](https://fettblog.eu/getting-started-with-rust)
+
+- [ ] [Denys Séguret - How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust)
 
 ## Developer Tools
 
