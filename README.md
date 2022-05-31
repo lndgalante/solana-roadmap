@@ -12,6 +12,8 @@
 
 * [ ] [Solana Official Resources](https://solana.com/developers)
 
+- [ ] [Solana - The Scaffold Series](https://solana.com/news/solana-scaffold-part-1-wallet-adapter)
+
 ## Solana Unofficial Links
 
 - [ ] [solana-dev-adv - Solana Cookbook](https://solanacookbook.com/)
