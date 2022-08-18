@@ -32,7 +32,7 @@
 
 * [ ] [Start on Solana - Start with quests](https://www.startonsolana.com)
 
-- [Pointer - Taking Payments IRL with Solana Pay](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23#welcome)
+- [ ] [Pointer - Taking Payments IRL with Solana Pay](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23#welcome)
 
 ## Solana Security Links
 
