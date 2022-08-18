@@ -83,3 +83,11 @@
 - [Awesome Solana](https://github.com/paul-schaaf/awesome-solana)
 
 * [Solana - Riptide Hackathon Resources](https://solana.com/riptide/resources)
+
+## Twitter Accounts to follow
+
+- @aeyakovenko, Anatoly, Solana Founder
+* @rajgokal - Raj, Solana Co-founder
+- @jacobvcreech - Solana Cookbook Creator
+* @SBF_FTX - Sam, FTX CEO, Solana Investor
+* @c_ogoo - C.OG, Solana Dev Rel
