@@ -91,3 +91,4 @@
 - @jacobvcreech - Solana Cookbook Creator
 * @SBF_FTX - Sam, FTX CEO, Solana Investor
 * @c_ogoo - C.OG, Solana Dev Rel
+- @solana_devs - Solana Developers
