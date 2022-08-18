@@ -32,6 +32,8 @@
 
 * [ ] [Start on Solana - Start with quests](https://www.startonsolana.com)
 
+- [Pointer - Taking Payments IRL with Solana Pay](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23#welcome)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io/)
@@ -88,7 +90,15 @@
 
 - @aeyakovenko, Anatoly, Solana Founder
 * @rajgokal - Raj, Solana Co-founder
-- @jacobvcreech - Solana Cookbook Creator
 * @SBF_FTX - Sam, FTX CEO, Solana Investor
+- @jacobvcreech - Solana Cookbook Creator
+- @DonnySolana - Solana Cookbook Creator
+- @therealchaseeb - Chase Barker, Head of Developer Ecosystem on Solana Foundation
+- @jamesrp13 - James, SolDev course creator
 * @c_ogoo - C.OG, Solana Dev Rel
+* @caulfieldjoe1 - Joe, Solana Dev Rel
 - @solana_devs - Solana Developers
+
+## YouTube Channels
+
+- [Coding & Crypto](https://www.youtube.com/c/CodingCrypto/videos)
