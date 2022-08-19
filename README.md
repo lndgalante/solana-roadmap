@@ -8,41 +8,43 @@
 
 ## Solana Official Links
 
-* [ ] [Solana Stack Exchange](https://solana.stackexchange.com/)
+- [ ] [Solana Stack Exchange](https://solana.stackexchange.com/)
 
-- [ ] [Solana Official Dcoumentation](https://docs.solana.com)
+* [ ] [Solana Official Dcoumentation](https://docs.solana.com)
 
-* [ ] [Solana Official Resources](https://solana.com/developers)
+- [ ] [Solana Official Resources](https://solana.com/developers)
 
-- [ ] [Solana - The Scaffold Series](https://solana.com/news/solana-scaffold-part-1-wallet-adapter)
+* [ ] [Solana - The Scaffold Series](https://solana.com/news/solana-scaffold-part-1-wallet-adapter)
 
 ## Solana Unofficial Links
 
-* [ ] [SolDev - Solana Development Course](https://soldev.app/course)
+- [ ] [SolDev - Solana Development Course](https://soldev.app/course)
 
-- [ ] [solana-dev-adv - Solana Cookbook](https://solanacookbook.com/)
+* [ ] [solana-dev-adv - Solana Cookbook](https://solanacookbook.com/)
 
-* [ ] [Nader Dabit - The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [ ] [Nader Dabit - The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 
-- [ ] [buildspace - Build a Web3 app on Solana with React and Rust](https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3)
+* [ ] [buildspace - Build a Web3 app on Solana with React and Rust](https://app.buildspace.so/projects/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3)
 
-* [ ] [buildspace - Ship your own custom NFT collection on Solana](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e)
+- [ ] [buildspace - Ship your own custom NFT collection on Solana](https://app.buildspace.so/projects/CO77556be5-25e9-49dd-a799-91a2fc29520e)
 
-- [ ] [Questbook - Build on Solana](https://openquest.xyz/tracks/build-on-solana)
+* [ ] [Questbook - Build on Solana](https://openquest.xyz/tracks/build-on-solana)
 
-* [ ] [Start on Solana - Start with quests](https://www.startonsolana.com)
+- [ ] [Start on Solana - Start with quests](https://www.startonsolana.com)
 
-- [ ] [Pointer - Taking Payments IRL with Solana Pay](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23#welcome)
+* [ ] [Pointer - Taking Payments IRL with Solana Pay](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23#welcome)
 
 ## Solana Security Links
 
-- [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io/)
+- [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
 
 * [ ] [Soteria Security Services & Audit for Solana Programs - Blog](https://www.soteria.dev/blogs)
 
 ## Anchor Unofficial Links
 
 - [ ] [Anchor - The Anchor Book](https://book.anchor-lang.com/)
+
+* [ ] [@0xDeep - Anchor by example](https://examples.anchor-lang.com)
 
 ## Rust Programming Language
 
@@ -89,14 +91,18 @@
 ## Twitter Accounts to follow
 
 - @aeyakovenko, Anatoly, Solana Founder
+
 * @rajgokal - Raj, Solana Co-founder
 * @SBF_FTX - Sam, FTX CEO, Solana Investor
+
 - @jacobvcreech - Solana Cookbook Creator
 - @DonnySolana - Solana Cookbook Creator
 - @therealchaseeb - Chase Barker, Head of Developer Ecosystem on Solana Foundation
 - @jamesrp13 - James, SolDev course creator
+
 * @c_ogoo - C.OG, Solana Dev Rel
 * @caulfieldjoe1 - Joe, Solana Dev Rel
+
 - @solana_devs - Solana Developers
 
 ## YouTube Channels
