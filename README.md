@@ -72,6 +72,8 @@
 
 * [VSCode - Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
 
+- [Solana Playground](https://beta.solpg.io)
+
 ## Projects ideas
 
 - [ ] [Tip ETH, for SOL](https://tipeth.xyz)
@@ -108,3 +110,5 @@
 ## YouTube Channels
 
 - [Coding & Crypto](https://www.youtube.com/c/CodingCrypto/videos)
+
+* [No Boilerplate](https://www.youtube.com/c/NoBoilerplate/videos)
