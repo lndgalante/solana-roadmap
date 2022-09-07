@@ -16,6 +16,8 @@
 
 * [ ] [Solana - The Scaffold Series](https://solana.com/news/solana-scaffold-part-1-wallet-adapter)
 
+- [ ] [Solana - Solana Bytes](youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm)
+
 ## Solana Unofficial Links
 
 - [ ] [SolDev - Solana Development Course](https://soldev.app/course)
