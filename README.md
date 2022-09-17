@@ -36,6 +36,8 @@
 
 * [ ] [Pointer - Taking Payments IRL with Solana Pay](https://www.pointer.gg/tutorials/solana-pay-irl-payments/944eba7e-82c6-4527-b55c-5411cdf63b23#welcome)
 
+- [ ] [Solana Web3 Example - Yihau Chen](https://yihau.github.io/solana-web3-demo/)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
