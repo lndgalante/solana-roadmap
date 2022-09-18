@@ -72,6 +72,8 @@
 
 * [ ] [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
 
+- [ ] [rustlings - Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
+
 ## Developer Tools
 
 - [Anchor - Solana Dev Environment](https://project-serum.github.io/anchor/getting-started/introduction.html)
