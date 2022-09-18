@@ -70,6 +70,8 @@
 
 - [ ] [Rust Linz, June 2021 - Tim McNamara - How to learn Rust](https://www.youtube.com/watch?v=sDtQaO5_SOw)
 
+* [ ] [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
+
 ## Developer Tools
 
 - [Anchor - Solana Dev Environment](https://project-serum.github.io/anchor/getting-started/introduction.html)
@@ -82,7 +84,9 @@
 
 - [ ] [Tip ETH, for SOL](https://tipeth.xyz)
 
-- [ ] [Ethereum Code Viewer, for SOL](https://github.com/dethcrypto/ethereum-code-viewer)
+* [ ] [Ethereum Code Viewer, for SOL](https://github.com/dethcrypto/ethereum-code-viewer)
+
+- [ ] [ABI Ninja, for IDL](https://abi.ninja/)
 
 ## External Lists/Resources
 
