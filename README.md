@@ -38,6 +38,8 @@
 
 - [ ] [Solana Web3 Example - Yihau Chen](https://yihau.github.io/solana-web3-demo/)
 
+* [ ] [Solana Dev Course - Solandy](https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
