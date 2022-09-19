@@ -40,17 +40,23 @@
 
 * [ ] [Solana Dev Course - Solandy](https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt)
 
+- [ ] [Paul - Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
 
 * [ ] [Soteria Security Services & Audit for Solana Programs - Blog](https://www.soteria.dev/blogs)
 
+- [ ] [Neodyme Security Services - Blog](https://blog.neodyme.io/)
+
 ## Anchor Unofficial Links
 
 - [ ] [Anchor - The Anchor Book](https://book.anchor-lang.com/)
 
 * [ ] [@0xDeep - Anchor by example](https://examples.anchor-lang.com)
+
+- [ ] [Henry-E - Programming Solana Smart Contracts | Intermediate Anchor Tutorial](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
 
 ## Rust Programming Language
 
