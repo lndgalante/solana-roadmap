@@ -44,6 +44,8 @@
 
 * [ ] [Loris Leiva - Create a Solana dApp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
 
+- [ ] [Josh's DevBox - Rust Crash Course Tutorial for Solana](https://www.youtube.com/watch?v=-AAtfPHEMbA&list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
