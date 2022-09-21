@@ -42,6 +42,8 @@
 
 - [ ] [Paul - Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 
+* [ ] [Loris Leiva - Create a Solana dApp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
