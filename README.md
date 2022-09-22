@@ -46,6 +46,12 @@
 
 - [ ] [Josh's DevBox - Rust Crash Course Tutorial for Solana](https://www.youtube.com/watch?v=-AAtfPHEMbA&list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)
 
+* [ ] [Figment Learn - Build a Solana Wallet](https://learn.figment.io/tutorials/solana-wallet-intro)
+
+- [ ] [Figment Learn - Solana 101](https://github.com/figment-networks/learn-web3-dapp)
+
+* [ ] [Figment Learn - Solana Tutorials](https://learn.figment.io/tutorials)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
