@@ -52,6 +52,8 @@
 
 * [ ] [Figment Learn - Solana Tutorials](https://learn.figment.io/tutorials)
 
+- [ ] [Anvit Mangal - A dummy's guide to Solana's architecture](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
