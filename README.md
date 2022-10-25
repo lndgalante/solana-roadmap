@@ -54,6 +54,8 @@
 
 - [ ] [Anvit Mangal - A dummy's guide to Solana's architecture](https://anvit.hashnode.dev/a-dummys-guide-to-solana-architecture)
 
+* [ ] [QuickNode - Solana Development Guides](https://www.quicknode.com/guides/solana-development)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
