@@ -122,6 +122,8 @@
 
 * [Solana - Riptide Hackathon Resources](https://solana.com/riptide/resources)
 
+- [SolMeet - Book](https://book.solmeet.dev/)
+
 ## Twitter Accounts to follow
 
 - @aeyakovenko, Anatoly, Solana Founder
