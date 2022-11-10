@@ -56,6 +56,8 @@
 
 * [ ] [QuickNode - Solana Development Guides](https://www.quicknode.com/guides/solana-development)
 
+- [ ] [CareerBooster - Full Solana and Rust programming course for beginners](https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
