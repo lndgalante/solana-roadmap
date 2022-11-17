@@ -74,6 +74,8 @@
 
 - [ ] [Henry-E - Programming Solana Smart Contracts | Intermediate Anchor Tutorial](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
 
+* [ ] [Buildspace - Solana Core](https://buildspace.so/p/solana-core)
+
 ## Rust Programming Language
 
 - [ ] [FCC YouTube – Interactive Rust Language Tutorial on Replit](https://www.youtube.com/watch?v=MsocPEZBd-M)
