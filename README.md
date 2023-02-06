@@ -58,6 +58,8 @@
 
 - [ ] [CareerBooster - Full Solana and Rust programming course for beginners](https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners)
 
+* [ ] [Encode Club - Solana Educational Series](https://www.youtube.com/playlist?list=PLfEHHr3qexv9Jcq1JzhVQh6J4bscLfejO)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
