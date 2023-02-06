@@ -60,6 +60,8 @@
 
 * [ ] [Encode Club - Solana Educational Series](https://www.youtube.com/playlist?list=PLfEHHr3qexv9Jcq1JzhVQh6J4bscLfejO)
 
+- [ ] [Forked One - Solana Blockchain Development](https://adept.at/forked/solana-blockchain-development)
+
 ## Solana Security Links
 
 - [ ] [Neodyme Labs - Solana Security Workshop](https://workshop.neodyme.io)
