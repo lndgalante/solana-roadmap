@@ -104,6 +104,8 @@
 
 - [ ] [rustlings - Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
 
+* [ ] [Microsoft - Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+
 ## Developer Tools
 
 - [Anchor - Solana Dev Environment](https://project-serum.github.io/anchor/getting-started/introduction.html)
