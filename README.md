@@ -108,6 +108,8 @@
 
 - [Solana Playground](https://beta.solpg.io)
 
+* [GraphQLana](https://query.graphqlana.com)
+
 ## Projects ideas
 
 - [ ] [Tip ETH, for SOL](https://tipeth.xyz)
