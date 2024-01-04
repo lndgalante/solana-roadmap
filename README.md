@@ -20,6 +20,8 @@
 
 ## Solana Unofficial Links
 
+- [ ] [Rise - Build on Solana](https://www.risein.com/courses/build-on-solana)
+
 - [ ] [SolDev - Solana Development Course](https://soldev.app/course)
 
 * [ ] [solana-dev-adv - Solana Cookbook](https://solanacookbook.com/)
